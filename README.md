@@ -17,7 +17,7 @@ Driven by curiosity, I thrive on creating innovative projects that challenge the
 
 ## 🚀 About Me
 
-- **🎓 Studying:** Computer Science
+
 - **🌱 I'm currently delving into the exciting space of:**
   - **Advanced Python Programming.**
   - **Machine Learning and AI**
