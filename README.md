@@ -1,13 +1,16 @@
 
 # 👋 Hey there, I'm Jeff!
 
-I'm Geofrey, a dedicated Computer Science student with a passion for exploring the fascinating world of technology. My journey in coding has led me to delve into the realms of Python, web development, and beyond. Driven by curiosity, I thrive on creating innovative projects that challenge the status quo.
+I'm Geofrey, a dedicated Computer Science student with a passion for exploring the fascinating world of technology.
+My journey in coding has led me to delve into the realms of Python, web development, and beyond. 
+Driven by curiosity, I thrive on creating innovative projects that challenge the tech world.
+
+
 [![](https://visitcount.itsvg.in/api?id=Jeff28&label=Profile%20Views%20100%2B&icon=0&pretty=false)](https://visitcount.itsvg.in)
 ## 🌐 Connect with Me
 
 - **Email:** [jeffkamau9497@gmail.com](mailto:jeffkamau9497@gmail.com)
-- **LinkedIn:** [Geofrey Njoroge Kamau](#) <
-- **Twitter:** [@YourTwitterHandle](#) <!-- Add your Twitter handle -->
+- **LinkedIn:** [Jeff-Kamau](https://www.linkedin.com/in/jeff-kamau-807337222)
 - **Telegram :** [@Jeff947](#) <!-- https://t.me/Jeff947 -->
 
 ## 🚀 About Me
@@ -42,15 +45,10 @@ I'm Geofrey, a dedicated Computer Science student with a passion for exploring t
 - **VS Code**
 - **Git & GitHub**
 
-## 📊 GitHub Stats
-
-![Geofrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geofreyNjoroge&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=geofreyNjoroge&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geofreyNjoroge&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-![Geofrey's Trophies](https://github-profile-trophy.vercel.app/?username=geofreyNjoroge&theme=radical&margin-w=15&margin-h=15)
+[![Geofrey's Trophies](https://github-profile-trophy.vercel.app/?username=geofreyNjoroge&theme=radical&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=Jeff9497)
 
 
 
