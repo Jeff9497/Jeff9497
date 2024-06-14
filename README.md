@@ -1,8 +1,10 @@
 
 # 👋 Hey there, I'm Jeff!
 
-I'm Geofrey, a dedicated Computer Science student with a passion for exploring the fascinating world of technology.
-My journey in coding has led me to delve into the realms of Python, web development, and beyond. 
+I'm Jeff, a dedicated Computer Science student with a passion for exploring the fascinating world of technology.
+
+My journey in coding has led me to delve into the realms of Python, web development, and beyond.
+
 Driven by curiosity, I thrive on creating innovative projects that challenge the tech world.
 
 
@@ -45,5 +47,6 @@ Driven by curiosity, I thrive on creating innovative projects that challenge the
 - **VS Code**
 - **Git & GitHub**
 
-
+**📬 Let's Collaborate!**
+I'm always excited to connect with fellow developers, learn new things, and collaborate on exciting projects. Feel free to reach out to me!
 
