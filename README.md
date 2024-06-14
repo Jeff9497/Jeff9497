@@ -46,8 +46,4 @@ Driven by curiosity, I thrive on creating innovative projects that challenge the
 - **Git & GitHub**
 
 
-## 🏆 GitHub Trophies
-
-[[![Geofrey's Trophies](https://github-profile-trophy.vercel.app/?username=geofreyNjoroge&theme=radical&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=Jeff9497)]
-
 
