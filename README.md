@@ -1,7 +1,7 @@
 
 # 👋 Hey there, I'm Jeff!
 
-I'm Jeff, a dedicated Computer Science student with a passion for exploring the fascinating world of technology.
+ A dedicated Computer Science student with a passion for exploring the fascinating world of technology.
 
 My journey in coding has led me to delve into the realms of Python, web development, and beyond.
 
