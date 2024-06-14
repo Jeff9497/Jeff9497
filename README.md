@@ -47,6 +47,8 @@ Driven by curiosity, I thrive on creating innovative projects that challenge the
 - **VS Code**
 - **Git & GitHub**
 
+
 **📬 Let's Collaborate!**
+
 I'm always excited to connect with fellow developers, learn new things, and collaborate on exciting projects. Feel free to reach out to me!
 
